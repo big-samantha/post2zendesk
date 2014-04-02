@@ -6,7 +6,7 @@ This gem lets you post a comment to a zendesk ticket, and sets the ticket's stat
 
 There's only two ways to use it:
 
-Inline Comment: `post2zendesk <ticketid> <comment>`
+Inline Comment: `post2zendesk <ticketid> <comment>`  
 Stdin Comment: `cat somefile | post2zendesk <ticketid>`
 
 E.g.:
